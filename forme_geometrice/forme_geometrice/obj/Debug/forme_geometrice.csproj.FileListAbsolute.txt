@@ -1,0 +1,8 @@
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\bin\Debug\forme_geometrice.exe.config
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\bin\Debug\forme_geometrice.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\bin\Debug\forme_geometrice.pdb
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\obj\Debug\forme_geometrice.csproj.AssemblyReference.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\obj\Debug\forme_geometrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\obj\Debug\forme_geometrice.csproj.CoreCompileInputs.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\obj\Debug\forme_geometrice.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\forme_geometrice\forme_geometrice\obj\Debug\forme_geometrice.pdb
